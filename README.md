@@ -212,4 +212,4 @@ Um projeto bem apresentado deve guiar o leitor em 2 minutos através desta estru
 3. [Seu GitHub não precisa de mais repositórios: fixe três e melhore a documentação.](https://quasa.io/es/media/tu-github-no-necesita-mas-repositorios-fija-tres-y-documenta-mejor)
 
 ## 5. Link do Notebook Compartilhado
-(https://notebook.google.com/notebook/d74fd5d8-cc2c-4def-bb6d-7d50d3f9347e)
+* [Fundamentos (Git y GitHub) ](https://notebook.google.com/notebook/d74fd5d8-cc2c-4def-bb6d-7d50d3f9347e)
