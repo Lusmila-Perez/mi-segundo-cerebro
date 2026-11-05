@@ -8,7 +8,7 @@ O tema deste projeto é o estudo e domínio de Git e GitHub para estruturar e do
 ## 2. Fontes Utilizadas e Confiabilidade
 * **Fontes:** Guias oficiais de documentação, tutoriais técnicos especializados em controle de versões e artigos focados em portfólios de tecnologia e análise de dados.
 * **Fontes de Vídeo:**
-1. Lista ordenada https://www.youtube.com/watch?v=3GymExBkKjE
+1. First item https://www.youtube.com/watch?v=3GymExBkKjE
 *  https://www.youtube.com/watch?v=niPExbK8lSw
 * https://www.youtube.com/watch?v=VdGzPZ31ts8
 * https://www.youtube.com/watch?v=xXIIPsjMHI4
