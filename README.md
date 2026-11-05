@@ -128,18 +128,10 @@ Para conectar seu repositório local com o GitHub:
 
 💡 **Dica:** Se achar útil, podemos montar uma estrutura guiada ou modelo para escrever o `README.md` dos seus projetos ou revisar como configurar o seu primeiro repositório no GitHub.
 
-
-
-
-
-
-
-
-
-
-
-
-  * **Fonte:** Documentação oficial de Git e GitHub.
+  * **Fonte:**
+1. Como usar o GitHub para iniciantes (com Claude)
+2. Aprenda Git agora! Curso completo e GRATUITO, do zero
+3. Guia rápido com comandos completos do Git para desenvolvedores
     
 * **Pergunta 2:** Por que o arquivo `.gitignore` é importante?
   * **Resposta:** Ele serve para indicar ao Git quais arquivos e pastas (como dados sensíveis ou temporários) não devem ser enviados para o repositório público.
