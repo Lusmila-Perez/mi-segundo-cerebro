@@ -8,20 +8,20 @@ O tema deste projeto é o estudo e domínio de Git e GitHub para estruturar e do
 ## 2. Fontes Utilizadas e Confiabilidade
 * **Fontes:** Guias oficiais de documentação, tutoriais técnicos especializados em controle de versões e artigos focados em portfólios de tecnologia e análise de dados.
 * **Fontes de Vídeo:**
-1. https://www.youtube.com/watch?v=3GymExBkKjE
-2. https://www.youtube.com/watch?v=niPExbK8lSw
-3. https://www.youtube.com/watch?v=VdGzPZ31ts8
-4. https://www.youtube.com/watch?v=xXIIPsjMHI4
-5. https://www.youtube.com/watch?v=jv6vJEcMIEU
-6. https://www.youtube.com/watch?v=jGehuhFhtnE
-7. https://www.youtube.com/watch?v=jxVrBq1mQDc
-8. https://www.youtube.com/watch?v=qYaw4gdQzx4
+1. [Curso COMPLETO de GIT y GITHUB desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=3GymExBkKjE) 
+2. [Curso de GIT y GITHUB DESDE CERO Para Aportar a Proyectos](https://www.youtube.com/watch?v=niPExbK8lSw)  
+3. [Aprende GIT ahora! curso completo GRATIS desde cero ](https://www.youtube.com/watch?v=VdGzPZ31ts8) 
+4. [How to build a Data Analyst porfolio website on GitHub in 10 minutes](https://www.youtube.com/watch?v=xXIIPsjMHI4)   
+5. [Haz que TU PORTFOLIO se vea (GitHub en 5 minutos)](https://www.youtube.com/watch?v=jv6vJEcMIEU)  
+6. [¿Qué es Git y cómo funciona? - La mejor explicación en español ](https://www.youtube.com/watch?v=jGehuhFhtnE)
+7. [Como usar GITHUB para principiantes (con Claude)](https://www.youtube.com/watch?v=jxVrBq1mQDc) 
+8. [Aprende GitHub desde cero - paso a paso](https://www.youtube.com/watch?v=qYaw4gdQzx4) 
 
 * **Fontes de Texto:** 
-1. https://www.datacamp.com/es/tutorial/github-and-git-tutorial-for-beginners
-2. https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/
-3. https://docs.github.com/es/get-started/using-github/hello-world
-4. https://es.scribd.com/document/772513785/Git-y-GitHub-desde-cero-2da-Ed-Brais-Moure
+1. [Tutorial de GitHub y Git para principiantes ](https://www.datacamp.com/es/tutorial/github-and-git-tutorial-for-beginners)
+2. [Aprende Git y GitHub - Curso desde cero](https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/) 
+3. [GitHub Docs](https://docs.github.com/es/get-started/using-github/hello-world) 
+4. [Git y GitHub Desde Cero - 2da. Ed. - Brais Moure](https://es.scribd.com/document/772513785/Git-y-GitHub-desde-cero-2da-Ed-Brais-Moure) 
 
 * **Por que confio nelas:** Porque provêm de documentações oficiais e criadores de conteúdo com comprovada experiência na indústria de desenvolvimento de software e ciência de dados.
 
@@ -210,6 +210,71 @@ Um projeto bem apresentado deve guiar o leitor em 2 minutos através desta estru
 1. [Como escrever o README de um projeto para o seu portfólio: estrutura, capturas de tela e demonstração que os recrutadores entendem](https://www.coderhouse.com/coderlibrary/como-escribir-readme-proyecto-portafolio)
 2. [Curso COMPLETO de GIT y GITHUB desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=3GymExBkKjE)
 3. [Seu GitHub não precisa de mais repositórios: fixe três e melhore a documentação.](https://quasa.io/es/media/tu-github-no-necesita-mas-repositorios-fija-tres-y-documenta-mejor)
+
+* **Pergunta 3:** Quais são os comandos ou a sintaxe mais utilizados no GitHub ao escrever em formato Markdown?
+
+  * **Resposta:** No GitHub, a documentação de projetos (como os arquivos `README.md`) é redigida em **Markdown**, uma linguagem de marcação leve que permite dar formato visual ao texto puro de maneira simples.
+
+Abaixo estão detalhados os elementos de sintaxe e comandos mais utilizados:
+
+## 1. Cabeçalhos (Títulos)
+
+São criados antecedendo o símbolo de cerquilha ou *hash* (`#`) seguido de um espaço. A quantidade de símbolos determina a hierarquia do título:
+
+* `# Título 1` (Cabeçalho principal)
+* `## Título 2` (Subtítulo)
+* `### Título 3`
+
+## 2. Formatação de texto
+
+Permite enfatizar palavras ou frases dentro do conteúdo:
+
+* **Negrito:** Envolver o texto com dois asteriscos `**texto**`.
+* *Itálico:* Envolver o texto com um asterisco `*texto*`.
+* ~~Tachado:~~ Utilizado para indicar conteúdo obsoleto ou corrigido (`~~texto~~`).
+
+## 3. Listas
+
+Ideal para estruturar requisitos, passos de instalação ou características:
+
+* **Listas não ordenadas (marcadores):** Iniciam-se com um asterisco `*` ou um hífen `-` seguido de um espaço.
+  * Item 1
+  * Item 2
+* **Listas ordenadas:** Iniciam-se com um número seguido de um ponto e espaço.
+  1. Primeiro passo
+  2. Segundo passo
+
+## 4. Links e Imagens
+
+Permite referências externas e demonstrações visuais dos projetos:
+
+* **Links:** A sintaxe coloca o texto visível entre colchetes e a URL entre parênteses `[Texto do link](http://url.com)`.
+* **Imagens:** Similar aos links, mas iniciando com um sinal de exclamação `![Texto alternativo](caminho_ou_url_da_imagem.jpg)`.
+
+## 5. Código (Em linha e Blocos)
+
+Essencial para mostrar comandos de terminal, variáveis ou trechos de código-fonte:
+
+* **Código em linha:** Envolve-se com crases simples `` `código` ``.
+* **Blocos de código multilinha:** Delimitam-se abrindo e fechando com três crases (```), o que permite formatar e destacar blocos completos.
+
+## 6. Citações e Blocos de Texto (*Blockquotes*)
+
+Utiliza-se o símbolo maior que (`>`) no início da linha para destacar frases, notas importantes ou esclarecimentos:
+
+> Este é um bloco de citação ou nota destacada.
+
+## 7. Tabelas e Integração com HTML
+
+* **Tabelas:** Estruturam-se para comparar dados ou listar dependências e tecnologias.
+* **Suporte a HTML:** O GitHub permite inserir código HTML direto dentro do arquivo Markdown para diagramações mais complexas, como centralização de imagens, tabelas personalizadas ou incorporação de elementos interativos.
+
+💡 **Dica:** Gostaria de redigir um rascunho de `README.md` utilizando esta sintaxe para incluí-lo em algum dos seus projetos de portfólio?
+    * **Fonte:**
+
+  1. [Aprende GitHub desde cero - paso a paso](https://www.youtube.com/watch?v=qYaw4gdQzx4)
+  2. [Introducción a Git y GitHub ](https://fp.josedomingo.org/iaw/pdf/git.pdf)
+  3. [Curso COMPLETO de GIT y GITHUB desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=3GymExBkKjE)
 
 ## 5. Link do Notebook Compartilhado
 * [Fundamentos (Git y GitHub) ](https://notebook.google.com/notebook/d74fd5d8-cc2c-4def-bb6d-7d50d3f9347e)
