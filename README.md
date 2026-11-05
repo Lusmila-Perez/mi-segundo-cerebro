@@ -206,7 +206,10 @@ Um projeto bem apresentado deve guiar o leitor em 2 minutos através desta estru
 
 💡 **Dica:** Se desejar, podemos redigir juntos o modelo exato do `README.md` em Markdown para um dos seus projetos principais ou montar o conteúdo do seu `README` de perfil pessoal.
     
-  * **Fonte:** Guia de boas práticas de desenvolvimento.
+  * **Fonte:**
+1. [Como escrever o README de um projeto para o seu portfólio: estrutura, capturas de tela e demonstração que os recrutadores entendem](https://www.coderhouse.com/coderlibrary/como-escribir-readme-proyecto-portafolio)
+2. [Curso COMPLETO de GIT y GITHUB desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=3GymExBkKjE)
+3. [Seu GitHub não precisa de mais repositórios: fixe três e melhore a documentação.](https://quasa.io/es/media/tu-github-no-necesita-mas-repositorios-fija-tres-y-documenta-mejor)
 
 ## 5. Link do Notebook Compartilhado
-[Insira aqui o link público do seu NotebookLM compartilhado]
+(https://notebook.google.com/notebook/d74fd5d8-cc2c-4def-bb6d-7d50d3f9347e)
