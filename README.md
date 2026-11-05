@@ -8,20 +8,20 @@ O tema deste projeto é o estudo e domínio de Git e GitHub para estruturar e do
 ## 2. Fontes Utilizadas e Confiabilidade
 * **Fontes:** Guias oficiais de documentação, tutoriais técnicos especializados em controle de versões e artigos focados em portfólios de tecnologia e análise de dados.
 * **Fontes de Vídeo:**
-* https://www.youtube.com/watch?v=3GymExBkKjE
-https://www.youtube.com/watch?v=niPExbK8lSw
-https://www.youtube.com/watch?v=VdGzPZ31ts8
-https://www.youtube.com/watch?v=xXIIPsjMHI4
-https://www.youtube.com/watch?v=jv6vJEcMIEU
-https://www.youtube.com/watch?v=jGehuhFhtnE
-https://www.youtube.com/watch?v=jxVrBq1mQDc
-https://www.youtube.com/watch?v=qYaw4gdQzx4
+*https://www.youtube.com/watch?v=3GymExBkKjE
+*https://www.youtube.com/watch?v=niPExbK8lSw
+*https://www.youtube.com/watch?v=VdGzPZ31ts8
+*https://www.youtube.com/watch?v=xXIIPsjMHI4
+*https://www.youtube.com/watch?v=jv6vJEcMIEU
+*https://www.youtube.com/watch?v=jGehuhFhtnE
+*https://www.youtube.com/watch?v=jxVrBq1mQDc
+*https://www.youtube.com/watch?v=qYaw4gdQzx4
 
 * **Fontes de Texto:** 
-https://www.datacamp.com/es/tutorial/github-and-git-tutorial-for-beginners
-https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/
-https://docs.github.com/es/get-started/using-github/hello-world
-https://es.scribd.com/document/772513785/Git-y-GitHub-desde-cero-2da-Ed-Brais-Moure
+*https://www.datacamp.com/es/tutorial/github-and-git-tutorial-for-beginners
+*https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/
+*https://docs.github.com/es/get-started/using-github/hello-world
+*https://es.scribd.com/document/772513785/Git-y-GitHub-desde-cero-2da-Ed-Brais-Moure
 
 * **Por que confio nelas:** Porque provêm de documentações oficiais e criadores de conteúdo com comprovada experiência na indústria de desenvolvimento de software e ciência de dados.
 
