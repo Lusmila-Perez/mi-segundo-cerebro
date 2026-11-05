@@ -32,7 +32,7 @@ Foi dado ao NotebookLM o seguinte comportamento:
 
 ## 4. Perguntas, Respostas e Fontes
 * **Pergunta 1:** Para um iniciante em Git, quais são os tópicos importantes a aprender? Poderia listar cada um deles com uma explicação?
-  * **Resposta:** # Guia de Git e GitHub (Nível Iniciante)
+  * **Resposta:** Guia de Git e GitHub (Nível Iniciante)
 
 Para dominar o Git e o GitHub a partir do nível iniciante, é fundamental compreender tanto os conceitos teóricos quanto o fluxo de comandos práticos:
 
