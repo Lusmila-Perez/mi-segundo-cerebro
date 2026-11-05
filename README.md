@@ -127,9 +127,10 @@ Para conectar seu repositório local com o GitHub:
 💡 **Dica:** Se achar útil, podemos montar uma estrutura guiada ou modelo para escrever o `README.md` dos seus projetos ou revisar como configurar o seu primeiro repositório no GitHub.
 
   * **Fonte:**
-1. Como usar o GitHub para iniciantes (com Claude)
-2. Aprenda Git agora! Curso completo e GRATUITO, do zero
-3. Guia rápido com comandos completos do Git para desenvolvedores
+1. [Como usar o GitHub para iniciantes (com Claude)](https://www.youtube.com/watch?v=jxVrBq1mQDc)
+2. [Aprenda Git agora! Curso completo e GRATUITO, do zero](https://www.youtube.com/watch?v=3GymExBkKjE)
+3. [Guia rápido com comandos completos do Git para desenvolvedores](https://dev.to/dainyjose/git-complete-commands-cheat-sheet-for-developers-96j)
+4. [¿Qué es Git y cómo funciona? - La mejor explicación en español](https://www.youtube.com/watch?v=jGehuhFhtnE)
     
 * **Pergunta 2:** Como funciona o Readme.md?
 O que significa Markdown?
